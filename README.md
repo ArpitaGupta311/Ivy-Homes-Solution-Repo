@@ -9,3 +9,6 @@
       Version 2 only contains characters in 'a' to 'z' and '0' to '9'. No capital characters, and no special symbols.
       Version 3 contains characters in 'a' to 'z' , '0' to '9' and special symbols too ('+' , '-' etc). No capital characters.
   d:- If I just put query = "", then it starts with its first string and displays the strings in ascending order.
+
+Find the google colab notebook link here:- https://colab.research.google.com/drive/1iRWPED2FFD2u_h8IyI0u502xHDs8ET-W#scrollTo=VNH5eu8h1vzv
+Codes for all the versions has been written here alongwith their outputs.
